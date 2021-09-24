@@ -1,1 +1,22 @@
-# -
+# 数通知识
+TCP/IP模型
+IP地址分类
+VLAN及Trunk
+STP与MSTP
+链路聚合
+负载分担
+OSPF
+堆叠
+BGP
+VRRP
+ACL
+NAT
+双机热备
+VPN
+GRE
+IPSecVPN
+SNMP
+IGMP
+PIM
+IPV6
+MPLS
